@@ -1,0 +1,13 @@
+body {
+ font-family: Arial;
+ background: rgb(41, 230, 129);
+ margin: 40px;
+ 
+}
+
+.grafico-linhas,
+.grafico-barras {
+    background-color: white;
+    padding:40px;
+    border-radius: 20px;
+}
